@@ -1,0 +1,2 @@
+# Steel-King-Business-Report
+An extensive Business Report regarding whether Steel King amend its pricing strategies to keep adequate liquidity for the smooth functioning of the business. Report contains financial and marketing data from the company’s stakeholders obtained through employee as well as customer interviews and questionnaires for examining the current position of the company and finding possible solutions to resolve the company's cashflow problems.
